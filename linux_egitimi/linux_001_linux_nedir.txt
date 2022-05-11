@@ -1,0 +1,19 @@
+Dibian tabanlı open source bir cekirdek ubuntu
+linux> Debian > Ubuntu
+---Neden Ubuntu ?
+Ubuntu 50+ milyon kullanıcı
+Ubuntu security
+ucretsiz
+testler
+Open source
+Linux dagitimlarindan en popiler olanidir.
+GNU: Gnu is not Unix
+
+GPL: 4 ozgurluk ilkesi
+1.sinirsiz kaynak kullanimi
+2.kopyasini almak degistirmek
+3.degistirme
+4.inceleme
+
+sanal makine ubuntu kurulumu
+

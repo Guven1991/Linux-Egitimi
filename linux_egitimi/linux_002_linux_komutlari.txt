@@ -1,0 +1,5 @@
+sudo su
+root
+sudo apt-get update
+apt-get upgrade
+apt-get install   ---> degisikleri ekler
